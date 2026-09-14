@@ -1,3 +1,3 @@
-let status:boolean
+let status=undefined
 status=true
 console.log(typeof(status))
