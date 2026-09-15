@@ -1,3 +1,10 @@
 let status=undefined
+console.log(typeof(status))
 status=true
 console.log(typeof(status))
+console.log(typeof(status))
+
+let value=null
+console.log(typeof(value))
+value=100
+console.log(typeof(value))
