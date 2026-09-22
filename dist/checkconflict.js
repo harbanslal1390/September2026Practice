@@ -1,6 +1,3 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-let name;
-name = "jarry";
-name = 100;
-console.log(name);
+console.log("checkone");
