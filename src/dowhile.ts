@@ -1,6 +1,6 @@
 
-let i=10;
+let counter=10;
 do{
-    console.log(i);//10
-i=i+1
-}while(i<=20);//9<=1 -> false
+    console.log(counter);//10
+    counter=counter+1
+}while(counter<=20);//9<=1 -> false

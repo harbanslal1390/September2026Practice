@@ -3,15 +3,15 @@ days.forEach( day=>{
 console.log(day)
 })
 
-outer:for(var i=0;i<=3;i++)
+outer:for(let outerIndex=0;outerIndex<=3;outerIndex++)
 {
-    inner:for(var j=0;j<=3;j++)
+    inner:for(let j=0;j<=3;j++)
     {
         if(j==3)
         {
             break outer ;
         }
-        console.log("i-->"+i+"j--"+j)
+        console.log("i-->"+outerIndex+"j--"+j)
     }
    
 }

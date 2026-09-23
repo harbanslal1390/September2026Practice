@@ -1,2 +1,2 @@
-var name:string="Harry"
-console.log(name)
+var myName:string="Harry"
+console.log(myName)

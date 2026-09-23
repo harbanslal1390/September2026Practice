@@ -1,6 +1,6 @@
-var array:[string,number,boolean]
-array=['harry',200,true]
-console.log(array)
+var tupleArray:[string,number,boolean]
+tupleArray=['harry',200,true]
+console.log(tupleArray)
 var num=100
 if(num>10)
 {
